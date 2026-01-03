@@ -1,7 +1,7 @@
 class Worktimeutil < Formula
   desc "Small CLI tool to read working hours from my calendar, sum them up and push them to absence.io or export them as CSV"
   homepage "https://github.com/EmanuelMairoll/WorkTimeUtil"
-  url "https://github.com/EmanuelMairoll/WorkTimeUtil.git", tag: "v2.0.0"
+  url "https://github.com/EmanuelMairoll/WorkTimeUtil.git", tag: "v2.0.1"
   head "https://github.com/EmanuelMairoll/WorkTimeUtil.git"
   license "MIT"
 
